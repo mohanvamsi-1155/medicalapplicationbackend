@@ -1,0 +1,10 @@
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 328-363-045
+werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+root - INFO - bhavana
+root - INFO - 8500692418
+root - INFO - bhavana123
+root - INFO - Connecting to DB
+root - INFO - DB Connection Successful Executing Query
+root - INFO - 1002
+werkzeug - INFO - 127.0.0.1 - - [04/Jul/2020 23:08:01] "[37mPOST /register HTTP/1.1[0m" 200 -
